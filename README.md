@@ -1,16 +1,21 @@
-### Hi there 👋
+### Eai pessoal! 👋 Meu nome é Pedro
 
-<!--
-**pedrolissandrello/pedrolissandrello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr> 
 
-Here are some ideas to get you started:
+Sou um aspirante a full stack developer, atualmente sigo estudando diversas tecnologias para me preparar. Inicialmente estudei e trabalhei com comércio exterior, mas desde os 12 anos que sabia usar bem e gostava de computadores. Famoso "sobrinho" que arruma as coisas pra família e futuro "sobrinho" que vive de arrumar essas coisas. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+H [HTML5] 
+- [CSS3] 
+- [JAVASCRIPT] 
+- [FIREBASE] 
+- [JQUERY] 
+- [BOOTSTRAP] 
+- [NODE.JS] 
+- [] 
+- [] 
+- [] 
+- [] 
+- [] 
+- [] 
+- [] 
+- [] 
