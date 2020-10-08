@@ -6,7 +6,7 @@ Sou um aspirante a full stack developer, atualmente sigo estudando diversas tecn
 
 
 
-- [ ] tarefa 1
+- [x] tarefa 1
 - [] 
 - [] 
 - [] 
