@@ -6,10 +6,21 @@ Sou um aspirante a full stack developer, atualmente sigo estudando diversas tecn
 
 
 
-- [x] tarefa 1
-- [] 
-- [] 
-- [] 
-- [] 
-- [] 
-- [] 
+- [x] HTML5
+- [x] CSS3
+- [x] JAVASCRIPT
+- [x] BOOTSTRAP
+- [x] FIREBASE
+- [x] JQUERY
+- [ ] NODE.JS
+- [ ] NODE EXPRESS
+- [ ] MONGO DB
+- [ ] JWT
+- [ ] SOCKET
+- [ ] REACT JS
+- [ ] REACT REDUX
+- [ ] REACT ROUTER
+- [ ] ELECTRON
+- [ ] CLEAN CODE - ROBERT C MARTIN
+- [ ] CLEAN ARCHITECTURE - ROBERT C MARTIN
+
