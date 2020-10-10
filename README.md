@@ -1,14 +1,15 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador IuriCode">
+
+
 ### Eai pessoal! 👋 Meu nome é Pedro
 
 <hr> 
 
-Sou um aspirante a full stack developer, atualmente sigo estudando diversas tecnologias para me preparar. Inicialmente estudei e trabalhei com comércio exterior, mas desde os 12 anos que sabia usar bem e gostava de computadores. Famoso "sobrinho" que arruma as coisas pra família e futuro "sobrinho" que vive de arrumar essas coisas. 
+💬 Futuro full stack developer, sigo estudando novas tecnologias. Comecei esse ano sem saber nada de programação apesar de sempre ter me dado bem com tecnologia. Famoso sobrinho que arrumava as coisas pra família e futuro sobrinho que irá viver disso.
 
-Aqui embaixo você vai poder ver como anda meu objetivo.
+🚀 Aqui embaixo você vai poder ver como anda meu objetivo.
 
 <hr>
-
-
 
 - [x] HTML5
 - [x] CSS3
@@ -25,6 +26,7 @@ Aqui embaixo você vai poder ver como anda meu objetivo.
 - [ ] REACT REDUX
 - [ ] REACT ROUTER
 - [ ] ELECTRON
+- [ ] SASS
 - [ ] CLEAN CODE - ROBERT C MARTIN
 - [ ] CLEAN ARCHITECTURE - ROBERT C MARTIN
 - [ ] FULL STACK DEVELOPER
