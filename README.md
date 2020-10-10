@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador IuriCode">
+
+<img src="https://uploads.sitepoint.com/wp-content/uploads/2019/11/1573610895python-job.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 
 ### Eai pessoal! 👋 Meu nome é Pedro
