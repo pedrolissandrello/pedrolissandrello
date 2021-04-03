@@ -4,8 +4,7 @@
 
 <hr> 
 
-💬 Sigo estudando novas tecnologias. Comecei esse ano sem saber nada de programação apesar de sempre ter me dado bem com tecnologia. Famoso sobrinho que arrumava as coisas pra família e futuro sobrinho que irá viver disso.
-
+💬 Sigo estudando novas tecnologias. Comecei esse ano sem saber nada de programação apesar de sempre ter me dado bem com tecnologia.
 🚀 Aqui embaixo você vai poder ver como anda meu objetivo.
 
 <hr>
@@ -16,6 +15,7 @@
 - [x] BOOTSTRAP
 - [x] FIREBASE
 - [x] JQUERY
+- [x] WORDPRESS
 - [ ] NODE.JS
 - [ ] NODE EXPRESS
 - [ ] MONGO DB
@@ -28,6 +28,6 @@
 - [ ] SASS
 - [ ] CLEAN CODE - ROBERT C MARTIN
 - [ ] CLEAN ARCHITECTURE - ROBERT C MARTIN
-- [ ] FULL STACK DEVELOPER
+
 
 
